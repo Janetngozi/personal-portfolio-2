@@ -6,9 +6,11 @@
 
 #seemore {
   cursor: pointer;
+  font-weight: bold;
 }
 #seeless {
   cursor: pointer;
+  font-weight: bold;
 }
 .container {
   display: flex;
